@@ -1,0 +1,20 @@
+{
+  "name": "coding-styleguide",
+  "version": "1.0.0",
+  "description": "guidelines for how code should be formatted for a given project",
+  "main": "all.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David",
+  "license": "MIT",
+  "dependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-concat": "^2.4.3",
+    "gulp-markdown": "^1.0.0"
+  },
+  "devDependencies": {
+    "open": "0.0.5"
+  }
+}

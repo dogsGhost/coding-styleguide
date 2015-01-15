@@ -1,0 +1,1 @@
+Often find myself having to write up documentation on projects regarding code styling (quotes, braces, indenting). This breaks the guides down into reusable markdown files I can build into one html file, usually for the purpose of copy/pasting into a company's wiki.
